@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Power connected -->
+    <string name="connected">El USB ha sido conectado.</string>
+    <string name="disconnected">El USB ha sido desconectado.</string>
+
+    <!-- Botones -->
+    <string name="btStatic">Static Broadcast</string>
+    <string name="btDynamic">Dynamic Broadcast</string>
+
+    <!-- Bluetooth connected -->
+    <string name="modoAvionConnected">El modo avión está conectado.</string>
+    <string name="modoAvionDisconnected">El modo avión está desconectado.</string>
+
+    <string name="bluetoothOn">Encender</string>
+    <string name="bluetoothOff">Apagar</string>
+
+</resources>
